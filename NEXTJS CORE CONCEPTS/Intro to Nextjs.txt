@@ -1,0 +1,12 @@
+# INTRO TO NEXTJS
+-----------------
+
+. Efficiency
+
+. Scalability
+
+. Performance
+
+
+	STATIC WEB ---> DYNAMIC INTERACTION ---> SERVER-GENERATED CONTENT ---> SINGLE PAGE APPLICATIONS ---> REACT ---> NEXT.JS
+
